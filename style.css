@@ -316,6 +316,10 @@ footer {
 }
 
 /* footer  */
+footer {
+    margin-bottom: -50px;
+}
+
 .footer-icon-1 {
     height: 38.33302688598633px;
     width: 30.667003631591797px;
