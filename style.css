@@ -914,6 +914,10 @@ footer {
         gap: 20px;
     }
 
+    .testimonial-section-title {
+        font-size: 2.4rem;
+    }
+
     /* variable section  */
     .variable-section-content-right-for-desktop {
         display: none;
